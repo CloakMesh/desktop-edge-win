@@ -48,6 +48,7 @@ namespace ZitiDesktopEdge {
         }
 
         protected override void OnStartup(StartupEventArgs e) {
+            Localizer.Install();
             UpgradeSentinel.RemoveUpgradeSentinelExe();
             try {
                 // AssemblyVersion changes every release, moving user.config; carry prior settings forward
