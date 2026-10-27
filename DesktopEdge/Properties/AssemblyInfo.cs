@@ -7,12 +7,12 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Ziti Desktop Edge")]
+[assembly: AssemblyTitle("CloakMesh Desktop Edge")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ziti Desktop Edge")]
-[assembly: AssemblyCopyright("Copyright NetFoundry Inc.")]
+[assembly: AssemblyCompany("AIUC Labs")]
+[assembly: AssemblyProduct("CloakMesh Desktop Edge")]
+[assembly: AssemblyCopyright("Copyright aiuc-labs. Based on Ziti Desktop Edge by NetFoundry Inc. (Apache-2.0)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
