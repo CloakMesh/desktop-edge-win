@@ -26,7 +26,7 @@ CloakMesh 的 Windows 桌面客户端，fork 自 [OpenZiti Ziti Desktop Edge for
 ## 构建（必须 Windows）
 
 ```powershell
-git clone https://github.com/aiuc-labs/cloakmesh-desktop-edge-win.git
+git clone https://github.com/cloakmesh/desktop-edge-win.git
 cd cloakmesh-desktop-edge-win
 msbuild ZitiDesktopEdge.sln /p:Configuration=Release
 ```
